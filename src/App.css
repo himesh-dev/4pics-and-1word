@@ -1,0 +1,10 @@
+.App {
+  background-color: rgb(2, 25, 36);
+  height: 800px;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: -50px;
+
+  display: flex;
+  flex-flow: column;
+}
